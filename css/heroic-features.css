@@ -10,6 +10,20 @@ body {
 .logo {
   width:22%;
 }
-#Picture 3 {
+#Picture  {
   height:50%
+}
+.btn {
+cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ff3d00;
+      
+}
+.btn:active{
+  background-color: #ff3d00;
+    box-shadow: 0 5px #666;
+  transform: translateY(4px);
+
 }
